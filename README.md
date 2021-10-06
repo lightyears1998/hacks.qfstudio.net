@@ -1,4 +1,6 @@
-# hacks.qfstudio.net
+# 青锋魔法书 hacks.qfstudio.net
+
+不考虑一下这些主题吗？
 
 ## hexo-theme-matery
 
