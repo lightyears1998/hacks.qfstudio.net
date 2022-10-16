@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '光年魔法书'
+title: "Lightyears' Magic Spells"
 subtitle: 'φ(゜▽゜*)♪'
-description: '这里是Lightyears 的技术博客哒'
+description: 'The technical blog of @lightyears1998 φ(゜▽゜*)♪ '
 keywords:
 author: lightyears
-language: zh
+language: en
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://hacks.qfstudio.net
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:post_title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
