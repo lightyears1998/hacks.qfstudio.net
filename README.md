@@ -1,13 +1,3 @@
-# 光年魔法书 hacks.qfstudio.net
+# Lightyears' Magic Spells
 
-不考虑一下这些主题吗？
-
-## hexo-theme-matery
-
-团子的。
-
-## hexo-theme-typing
-
-很光滑，不去看看吗？
-
-<https://github.com/geekplux/hexo-theme-typing>
+Welcome to my technical blog!

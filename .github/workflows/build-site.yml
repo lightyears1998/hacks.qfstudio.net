@@ -26,6 +26,7 @@ jobs:
       run: echo "::set-output name=dir::$(yarn cache dir)"
 
     - name: Setup Yarn Cache
+      id: cache-yarn
       uses: actions/cache@v3
       id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
       with:
@@ -33,6 +34,15 @@ jobs:
         key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-yarn-
+
+    - name: Setup Hexo Cache
+      id: cache-hexo
+      uses: actions/cache@v3
+      with:
+        path: |
+          public
+          db.json
+        key: ${{ runner.os }}-hexo
 
     - name: Install Dependencies
       run: yarn install
