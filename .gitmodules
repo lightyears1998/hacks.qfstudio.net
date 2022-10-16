@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-alisha"]
+	path = themes/hexo-theme-alisha
+	url = https://github.com/lightyears1998/hexo-theme-alisha.git
