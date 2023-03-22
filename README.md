@@ -1,5 +1,3 @@
 # Lightyears' Magic Book
 
-Welcome to my technical blog!
-
-**Note**: It is still under development...
+Welcome to my blog about techs!
