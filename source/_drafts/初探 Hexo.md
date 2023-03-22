@@ -15,6 +15,6 @@ Hexo 与其他 SSG（Static Site Generator）的对比。
 > Heaven can wait while we're only watching the skies.
 > Hoping for the best but expecting the worst.
 >
-> *Forever Young* by Alphaville
+> *Forever Young* by *Alphaville*
 
 ## 功能

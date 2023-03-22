@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Lightyears' Magic Book"
+title: "Lightyears Traveler"
 subtitle: 'φ(゜▽゜*)♪'
-description: '@lightyears1998's The blog about techs φ(゜▽゜*)♪ '
+description: "@lightyears1998's blog about techs φ(゜▽゜*)♪ "
 keywords:
 author: lightyears
 language: en
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -98,6 +98,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+
+theme_config:
+  favicon: favicon.ico
 
 # hexo-generator-feed
 feed:
