@@ -23,7 +23,7 @@ I am always fond of using free-and-open-source fonts. But where to find them? No
 
 I will pick up a title font, a text font and a monospace font for displaying code snippets in the future. After some hours of digging, I still need to decide which fonts to pick up: There are too many fonts available, and I'm a bit selective. Aha, let's keep it simple for now. OK... System default font; that's the choice.
 
-## Step 2: Make a Simple Layout
+## Step 2: Make a simple layout
 
 About the website layout, I would like to find some existing blogging websites/themes for reference. Without touching the source code of the Hexo engine, it will be easier for me to learn to make a theme by inspecting the popular themes built into the Hexo itself: the Landscape theme.
 
